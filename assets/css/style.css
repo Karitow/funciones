@@ -1,0 +1,39 @@
+div#ele1 {
+    background-color: green;
+}
+
+#azul{ 
+    background-color: blue;
+    width:200px;
+    height:200px;
+    margin-top:20px;
+}
+
+#rojo{
+    background-color:red;
+    width:200px;
+    height:200px;
+    margin-top:20px;
+}
+
+#verde{
+    background-color:green;
+    width:200px;
+    height:200px;
+    margin-top:20px;
+}
+
+#amarillo{
+    background-color:yellow;
+    width:200px;
+    height:200px;
+    margin-top:20px;
+}
+
+#key{
+    width: 200px;
+    height: 200px;
+    margin-top:20px;
+    background-color: white;
+    border: 1px solid black;
+}
